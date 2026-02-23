@@ -11,3 +11,18 @@ multiplyNode(document.querySelector(`#pic${i}`), 11, true);
 else { multiplyNode(document.querySelector(`#pic${i}`),Math.floor(window.innerWidth/50)-1,true);
      };
   };
+
+document.addEventListener("DOMContentLoaded", () => {
+  const toggles = document.querySelectorAll("[data-scene-toggle]");
+
+  toggles.forEach((button) => {
+    const card = button.closest(".scene-card");
+    const body = card.querySelector("[data-scene-body]");
+
+    button.addEventListener("click", () => {
+      const expanded = body.classList.toggle("is-expanded");
+      button.classList.toggle("is-expanded", expanded);
+      button.textContent = expanded ? "Weniger anzeigen" : "Mehr anzeigen";
+    });
+  });
+});
