@@ -57,6 +57,11 @@ nav a {
     transition: 0.3s;
     text-transform: uppercase;
 }
+h2 {
+     font-family: Amori;
+     font-size: 1.1rem;
+     margin-bottom: 1.2rem;
+}
 h4 {
   transform: translate(10px,0);
   margin-top: 15px;
@@ -212,7 +217,7 @@ h4 {
 p {
     font-family: Amiri;
     font-size: 0.9rem;
-    line-height:98%;
+    line-height:112%;
 }
 .sm {
       font-size: 0.65rem;
