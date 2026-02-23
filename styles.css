@@ -50,7 +50,7 @@ nav {
 
 nav a {
     color: #d1a066;
-   /* margin-right: 15px;*/
+    margin-right: 2vw;
     text-decoration: none;
     font-size: 0.85rem;
    /* line-height: 1.2;*/
@@ -216,9 +216,9 @@ h4 {
   }
 p {
     font-family: Amiri;
-    font-size: 0.4rem 0.9rem;
+    font-size: 0.9rem;
     line-height:112%;
-    padding: 1.3rem;
+    padding: 0.7rem 1.3rem;
     border: 1px solid black;
 }
 .sm {
