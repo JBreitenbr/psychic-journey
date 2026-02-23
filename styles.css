@@ -35,8 +35,9 @@ nav {
    background: radial-gradient(circle at top, #302018 0, #0d0b0a 55%, #050404 100%);
    backdrop-filter: blur(6px);
    text-align: center;
-   color: #f5ede3;
+   color: #d1a066;
    padding: 10px 20px;
+   font-family: Raleway;
    font-size: 1.1rem;
    z-index: 1000;
    display: flex;
@@ -46,10 +47,10 @@ nav {
 }
 
 nav a {
-    color: #f5ede3;
+    color: #d1a066;
     margin-right: 15px;
     text-decoration: none;
-    font-size: 1.1rem;
+    font-size: 0.8rem;
     line-height: 1.2;
     transition: 0.3s;
 }
@@ -132,7 +133,7 @@ h4 {
 
 /* Der Textkörper, der anfangs gekürzt wird */
 .scene-body {
-  max-height: calc(100vh - 240px);  
+  max-height: calc(100vh - 280px);  
   overflow: hidden;
   position: relative;
   transition: max-height 0.25s ease;
