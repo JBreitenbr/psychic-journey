@@ -4,7 +4,7 @@ function multiplyNode(node, count, deep) {
         node.parentNode.insertBefore(copy, node);
     }
 }
-for(let i=1;i<11;i++){
+for(let i=1;i<3;i++){
 if(window.innerWidth<400){
 multiplyNode(document.querySelector(`.pic${i}`), 11, true);
 }
