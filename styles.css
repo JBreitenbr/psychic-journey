@@ -209,9 +209,9 @@ h4 {
   box-shadow: none;
   }
 p {
-    margin: 5px;
-    padding: 5px;
-    font-size: 0.7rem;
+   /* margin: 5px;
+    padding: 5px;*/
+    font-size: 1.1rem;
 }
 .sm {
       font-size: 0.65rem;
