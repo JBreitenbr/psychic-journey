@@ -218,8 +218,8 @@ p {
     font-family: Amiri;
     font-size: 0.9rem;
     line-height:112%;
-    padding: 0.7rem 1.3rem;
-    border: 1px solid black;
+    padding: 0.3rem 1.3rem;
+   /* border: 1px solid black;*/
 }
 .sm {
       font-size: 0.65rem;
