@@ -80,7 +80,7 @@ h4 {
 }
 /* 🌈 Farbverläufe für die einzelnen Kapitel */
 
-#prolog {
+#prolog, #chapter3,#chapter4 {
   background: #C9A878;
   /*linear-gradient(180deg, #f6e8b1, #e4c17c)*/;
   color: #2a2a2a;
@@ -98,7 +98,7 @@ h4 {
   color: #2a2a2a;
 }
 
-#chapter3, #chapter4 {
+#chapr3, #cha4 {
   background: #a3796c;
   /*linear-gradient(180deg, #f7d7a2, #d69a56);*/
   color: #2a2a2a;
