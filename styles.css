@@ -98,13 +98,13 @@ h4 {
   color: #2a2a2a;
 }
 
-#chapter3 {
+#chapter3, #chapter4 {
   background: #a3796c;
   /*linear-gradient(180deg, #f7d7a2, #d69a56);*/
   color: #2a2a2a;
 }
 
-#chapter4 {
+#chapte {
   background: #6F573B;
   /*linear-gradient(180deg, #b88e77, #705140);*/
   color: #e7e1d5;
