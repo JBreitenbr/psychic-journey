@@ -14,9 +14,7 @@ body {
   scroll-behavior: smooth;
 }
 .wrapper {
-  display: flex;
-  align-items:center;
-  justify-content: center;
+  display: grid;
  }
 img {
   height:30px;
