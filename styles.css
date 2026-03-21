@@ -37,7 +37,7 @@ header {
   font-size:0.9rem;
   width: 100vw;
   top: 0;
-  height:180px;
+  height:150px;
   z-index: 1000;
   display: flex;
   justify-content: space-around;
@@ -47,7 +47,7 @@ header {
  /* gap:0.2rem;*/
   padding: 0.8rem 1.5rem ;
   overflow-x: auto;
-  background: #333399;
+  background: #333366;
   backdrop-filter: blur(6px);
   border-bottom: 1px solid rgba(120, 82, 31, 0.25);
   box-shadow: 0 4px 18px rgba(0, 0, 0, 0.08);
@@ -140,7 +140,7 @@ h4 {
 }*/
   .scene-card {  
      max-width: 780px;
-     padding: 140px 1.9rem 2.4rem 1.9rem;
+     padding: 185px 1.9rem 2.4rem 1.9rem;
      margin: 2vw auto 0 auto;
      font-size: 0.9rem;
      border-radius: 18px;
