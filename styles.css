@@ -12,7 +12,7 @@
 body {
   font-family:  'Aurora';
   scroll-behavior: smooth;
-  background:lightblue;
+  background:#dbecff;
 }
 .wrapper {
   display: flex;
