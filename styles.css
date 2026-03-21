@@ -29,7 +29,7 @@ header {
 }
 #navbar {
   font-family: 'El Messiri';
-  position: sticky;
+  position: fixed;
   font-size:0.9rem;
   top: 0;
   z-index: 1000;
@@ -41,7 +41,7 @@ header {
   gap:0.2rem;
   padding: 0.8rem 1.5rem ;
   overflow-x: auto;
-  background: navy;
+  background: #000008;
   backdrop-filter: blur(6px);
   border-bottom: 1px solid rgba(120, 82, 31, 0.25);
   box-shadow: 0 4px 18px rgba(0, 0, 0, 0.08);
