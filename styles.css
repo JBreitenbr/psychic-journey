@@ -189,7 +189,9 @@ section, #prolog {
   gap: 0.25rem;
   transition: background 0.25s ease, transform 0.25s ease, box-shadow 0.25s ease;
 }
-
+.night {
+   background: rgb(51, 51, 102, 0.82);
+}
 .scene-toggle::after {
   content: "▼";
   font-size: 0.7em;
