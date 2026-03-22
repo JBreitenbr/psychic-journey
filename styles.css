@@ -118,7 +118,10 @@ section, #prolog {
   background:rgba(140, 68, 38, 0.82);
   color:white;
 }
-
+#chapter5 {
+  background:rgba(9, 122, 104,0.77);
+  color:white;
+}
 #chapter8 {
    background:#f7f3ea;
 }
@@ -195,6 +198,10 @@ section, #prolog {
 }
 .night {
    background: rgb(51, 51, 102, 0.82);
+}
+.oasis {
+   color:rgb(9, 122, 104);
+   background:#f7f7f7;
 }
 .scene-toggle::after {
   content: "▼";
