@@ -138,7 +138,9 @@ section, #prolog {
    background:#7e397c;
    color: white;
 }
-
+.card {
+   border:1px solid #ffdab9;
+}
 .scene-card {  
      max-width: 780px;
      padding: 220px 0.6rem 1.4rem 0.6rem;
